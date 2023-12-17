@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Nova+Square&family=Orbitron&family=Passero+One&family=Teko:wght@300&display=swap");
+
+* {
+  font-family: "Passero One", sans-serif;
+}
+
+body {
+  background-color: lightblue;
+}
